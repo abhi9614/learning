@@ -1,0 +1,2 @@
+This is third file to check the commit process.
+This is the second line of third file to check the process.

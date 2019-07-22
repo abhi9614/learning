@@ -1,0 +1,3 @@
+This is used just to check how git is working.
+This is the 2nd line.
+This is the 3rd line.
